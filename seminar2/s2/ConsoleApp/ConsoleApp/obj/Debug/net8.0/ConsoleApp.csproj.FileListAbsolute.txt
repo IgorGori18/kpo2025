@@ -1,0 +1,15 @@
+/Users/gori/Documents/GitHub/kpo2025/seminar2/s2/ConsoleApp/ConsoleApp/bin/Debug/net8.0/ConsoleApp
+/Users/gori/Documents/GitHub/kpo2025/seminar2/s2/ConsoleApp/ConsoleApp/bin/Debug/net8.0/ConsoleApp.deps.json
+/Users/gori/Documents/GitHub/kpo2025/seminar2/s2/ConsoleApp/ConsoleApp/bin/Debug/net8.0/ConsoleApp.runtimeconfig.json
+/Users/gori/Documents/GitHub/kpo2025/seminar2/s2/ConsoleApp/ConsoleApp/bin/Debug/net8.0/ConsoleApp.dll
+/Users/gori/Documents/GitHub/kpo2025/seminar2/s2/ConsoleApp/ConsoleApp/bin/Debug/net8.0/ConsoleApp.pdb
+/Users/gori/Documents/GitHub/kpo2025/seminar2/s2/ConsoleApp/ConsoleApp/obj/Debug/net8.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gori/Documents/GitHub/kpo2025/seminar2/s2/ConsoleApp/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/gori/Documents/GitHub/kpo2025/seminar2/s2/ConsoleApp/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfo.cs
+/Users/gori/Documents/GitHub/kpo2025/seminar2/s2/ConsoleApp/ConsoleApp/obj/Debug/net8.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/gori/Documents/GitHub/kpo2025/seminar2/s2/ConsoleApp/ConsoleApp/obj/Debug/net8.0/ConsoleApp.sourcelink.json
+/Users/gori/Documents/GitHub/kpo2025/seminar2/s2/ConsoleApp/ConsoleApp/obj/Debug/net8.0/ConsoleApp.dll
+/Users/gori/Documents/GitHub/kpo2025/seminar2/s2/ConsoleApp/ConsoleApp/obj/Debug/net8.0/refint/ConsoleApp.dll
+/Users/gori/Documents/GitHub/kpo2025/seminar2/s2/ConsoleApp/ConsoleApp/obj/Debug/net8.0/ConsoleApp.pdb
+/Users/gori/Documents/GitHub/kpo2025/seminar2/s2/ConsoleApp/ConsoleApp/obj/Debug/net8.0/ConsoleApp.genruntimeconfig.cache
+/Users/gori/Documents/GitHub/kpo2025/seminar2/s2/ConsoleApp/ConsoleApp/obj/Debug/net8.0/ref/ConsoleApp.dll
