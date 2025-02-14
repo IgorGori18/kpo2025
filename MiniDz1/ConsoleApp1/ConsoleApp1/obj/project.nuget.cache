@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JWys1LoI+hY=",
+  "success": true,
+  "projectFilePath": "/Users/gori/School/2. kurs /KPO/MiniDz1/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "/Users/gori/.nuget/packages/microsoft.extensions.dependencyinjection/9.0.2/microsoft.extensions.dependencyinjection.9.0.2.nupkg.sha512",
+    "/Users/gori/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.2/microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
