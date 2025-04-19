@@ -1035,12 +1035,13 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/gori/School/2. kurs /KPO/MiniDz1/ConsoleApp1/TestProject/TestProject.csproj",
+      "projectUniqueName": "/Users/gori/Documents/GitHub/kpo2025/MiniDz1/ConsoleApp1/TestProject/TestProject.csproj",
       "projectName": "TestProject",
-      "projectPath": "/Users/gori/School/2. kurs /KPO/MiniDz1/ConsoleApp1/TestProject/TestProject.csproj",
+      "projectPath": "/Users/gori/Documents/GitHub/kpo2025/MiniDz1/ConsoleApp1/TestProject/TestProject.csproj",
       "packagesPath": "/Users/gori/.nuget/packages/",
-      "outputPath": "/Users/gori/School/2. kurs /KPO/MiniDz1/ConsoleApp1/TestProject/obj/",
+      "outputPath": "/Users/gori/Documents/GitHub/kpo2025/MiniDz1/ConsoleApp1/TestProject/obj/",
       "projectStyle": "PackageReference",
+      "UsingMicrosoftNETSdk": false,
       "configFilePaths": [
         "/Users/gori/.nuget/NuGet/NuGet.Config"
       ],
@@ -1054,8 +1055,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/gori/School/2. kurs /KPO/MiniDz1/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj": {
-              "projectPath": "/Users/gori/School/2. kurs /KPO/MiniDz1/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj"
+            "/Users/gori/Documents/GitHub/kpo2025/MiniDz1/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj": {
+              "projectPath": "/Users/gori/Documents/GitHub/kpo2025/MiniDz1/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj"
             }
           }
         }

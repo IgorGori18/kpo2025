@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PTlVfPXIGec=",
+  "dgSpecHash": "Dg2z3r3d4lc=",
   "success": true,
-  "projectFilePath": "/Users/gori/School/2. kurs /KPO/MiniDz1/ConsoleApp1/TestProject/TestProject.csproj",
+  "projectFilePath": "/Users/gori/Documents/GitHub/kpo2025/MiniDz1/ConsoleApp1/TestProject/TestProject.csproj",
   "expectedPackageFiles": [
     "/Users/gori/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",
     "/Users/gori/.nuget/packages/microsoft.codecoverage/17.8.0/microsoft.codecoverage.17.8.0.nupkg.sha512",

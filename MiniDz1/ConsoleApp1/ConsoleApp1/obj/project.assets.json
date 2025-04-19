@@ -112,12 +112,13 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/gori/School/2. kurs /KPO/MiniDz1/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
+      "projectUniqueName": "/Users/gori/Documents/GitHub/kpo2025/MiniDz1/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "/Users/gori/School/2. kurs /KPO/MiniDz1/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
+      "projectPath": "/Users/gori/Documents/GitHub/kpo2025/MiniDz1/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
       "packagesPath": "/Users/gori/.nuget/packages/",
-      "outputPath": "/Users/gori/School/2. kurs /KPO/MiniDz1/ConsoleApp1/ConsoleApp1/obj/",
+      "outputPath": "/Users/gori/Documents/GitHub/kpo2025/MiniDz1/ConsoleApp1/ConsoleApp1/obj/",
       "projectStyle": "PackageReference",
+      "UsingMicrosoftNETSdk": false,
       "configFilePaths": [
         "/Users/gori/.nuget/NuGet/NuGet.Config"
       ],
